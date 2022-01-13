@@ -1,0 +1,26 @@
+{
+  "name": "authentication_mongodb_jwt",
+  "version": "1.0.0",
+  "description": "Node.js + MongoDB: JWT Authentication & Authorization",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jadwa55/Authentication_MongoDB_JWT.git"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "jwt",
+    "authentication",
+    "mongodb"
+  ],
+  "author": "jadwa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jadwa55/Authentication_MongoDB_JWT/issues"
+  },
+  "homepage": "https://github.com/jadwa55/Authentication_MongoDB_JWT#readme"
+}
