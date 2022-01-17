@@ -1,7 +1,7 @@
 # Authentication_MongoDB_JWT
 
 
-++ npm init
+# npm init
 name: (Authentication_MongoDB_JWT) 
 version: (1.0.0) 
 description: Node.js + MongoDB: JWT Authentication & Authorization
@@ -13,3 +13,6 @@ author: bezkoder
 license: (ISC)
 
 Is this ok? (yes) yes
+
+
+# npm install express mongoose cors jsonwebtoken bcryptjs --save
